@@ -1,6 +1,7 @@
-#NEXT JS - REPLICATE STARTED TEMPLATE
+# NEXT JS - REPLICATE EXAMPLE TEMPLATE
 
 This is a template for next js 13 app router with the api connected to replicate model
+I have used two models from replicate to generate controlnet qr codes  
 
 ## Getting Started
 
