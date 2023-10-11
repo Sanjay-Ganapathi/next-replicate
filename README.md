@@ -1,6 +1,8 @@
 # NEXT JS - REPLICATE EXAMPLE TEMPLATE
 
 This is a template for next js 13 app router with the api connected to replicate model
+<br />
+
 I have used two models from replicate to generate controlnet qr codes  
 
 ## Getting Started
@@ -21,6 +23,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## NEXT REPLICATE API
+
 
 
